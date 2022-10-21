@@ -35,3 +35,6 @@ https://www.nexusmods.com/assassinscreedrevelations/mods/30/?tab=description
  
  <img src="ACBrotherhood.gif?raw=true" width="400" height="30">
  https://www.nexusmods.com/assassinscreedbrotherhood/mods/49/?tab=posts
+ 
+ -F1 2020 (2017 OST Mod)
+ https://www.racedepartment.com/downloads/2017-ost-to-2020.55399/
