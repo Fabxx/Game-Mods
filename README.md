@@ -39,3 +39,6 @@ https://www.nexusmods.com/assassinscreedrevelations/mods/30/?tab=description
  
  -F1 2020 (2017 OST Mod)
  https://www.racedepartment.com/downloads/2017-ost-to-2020.55399/
+ 
+ -F1 2020 More Classic cars mod:
+ https://www.youtube.com/watch?v=EVwkTXp8ciE
