@@ -41,7 +41,7 @@ https://www.nexusmods.com/assassinscreedrevelations/mods/30/?tab=description
  https://www.racedepartment.com/downloads/2017-ost-to-2020.55399/
  
  -F1 2020 More Classic cars mod:
- https://www.youtube.com/watch?v=EVwkTXp8ciE
+ https://www.nexusmods.com/f12020/mods/1
  
  -APR Bodykit for Lancer Evo IX (Nfs world):
  
