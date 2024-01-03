@@ -3,7 +3,7 @@ Links to mods i made for various games
  
 Crysis:
 
- https://www.moddb.com/mods/crysis-enhanced-edition/addons/add-on-pack-for-ee
+https://www.moddb.com/mods/crysis-enhanced-edition/addons/add-on-pack-for-ee
  
 Crash Bandicoot N.Sane Trilogy:
 
@@ -13,11 +13,11 @@ https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/24
 
 Colin McRae Rally 2.0:
 
-https://www.moddb.com/mods/colin-mcrae-rally-20-official-wrc-liveries
+https://www.nexusmods.com/colinmcraerally2/mods/1
  
 Colin McRae Rally 2005:
 
-https://www.moddb.com/mods/wrc-liveries-mod-pack
+https://www.nexusmods.com/colinmcraerally2005/mods/1?tab=description
  
 Crysis 2:
 
@@ -36,8 +36,8 @@ https://www.nexusmods.com/assassinscreedbrotherhood/mods/49/?tab=posts
 https://www.nexusmods.com/assassinscreedbrotherhood/mods/50
  
 F1 2020 (2017 OST Mod)
- 
- https://www.racedepartment.com/downloads/2017-ost-to-2020.55399/
+
+https://www.nexusmods.com/f12020/mods/2
  
 F1 2020 More Classic cars mod:
  
