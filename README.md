@@ -63,9 +63,11 @@ Watch Dogs:
 
 https://www.nexusmods.com/watchdogs/mods/265
 
-https://www.nexusmods.com/watchdogs/mods/266/
+https://www.nexusmods.com/watchdogs/mods/266
 
 https://www.nexusmods.com/watchdogs/mods/267
+
+https://www.nexusmods.com/watchdogs/mods/270
 
 
 
