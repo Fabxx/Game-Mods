@@ -42,6 +42,10 @@ https://www.nexusmods.com/f12020/mods/2
 F1 2020 More Classic cars mod:
  
 https://www.nexusmods.com/f12020/mods/1
+
+F1 2020 (2018 OST Mod)
+
+https://www.nexusmods.com/f12020/mods/7
  
 APR Bodykit for Lancer Evo IX (Nfs world):
  
